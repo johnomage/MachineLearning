@@ -3,7 +3,7 @@ Welcome to the Machine Learning Projects Showcase! This repository highlights pr
  - Customer Churn Prediction
  - Prediction of Road Accidents in the UK**
  - Electricity price prediction
-
+and more
 
 **Contributing**
 
